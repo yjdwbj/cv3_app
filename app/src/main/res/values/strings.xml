@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">cv_app3</string>
+    <string name="unknown_device">Unknown device</string>
+    <string name="title_devices">Bluetooth LE Device Scan</string>
+    <string name="ble_not_supported">Bluetooth LE is not support</string>
+    <string name="error_bluetooth_not_supported">蓝牙功能不支持</string>
+    <string name="menu_stop">停止搜索</string>
+    <string name="menu_scan">Bluetooth Scan</string>
+    <string name="menu_refresh">Refresh Bluetooth</string>
+    <string name="action_demo">Demo</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="no_data">No Data</string>
+    <string name="label_data">Data:</string>
+    <string name="label_services">Services</string>
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="label_heartrate">HeartRate</string>
+</resources>
